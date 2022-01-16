@@ -7,6 +7,6 @@
   <h3> Well Done....</h3>
   <h3> Hata verdi.. </h3>
   <h3> Sonunda düzeldi. Kaç saate mal oldu.. </h3>
-  <h3> Bir faydası olmuştur inşAllah. </h3>
+  <h3> Bu hafta sonu Jenkinse ayrıldı.. </h3>
 </body>
 </html>
